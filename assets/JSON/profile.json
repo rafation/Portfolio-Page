@@ -1,0 +1,60 @@
+{
+    "name": "Rafael A Vazquez",
+    "photo": "https://media.licdn.com/dms/image/v2/D4D35AQFUaNpkUIpi-g/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1729812352818?e=1732222800&v=beta&t=SsR5lrz154LxG19-obGN7pQaYCoPXzvipXeL36C6E_o",
+    "job": "Dev em Formação",
+    "location": "Brasília - DF",
+    "phone": "(61) 9 81544900",
+    "email": "rafa_a_vazquez@hotmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "JavaScript",
+          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/js.png?raw=true"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/html.png?raw=true"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/css.png?raw=true"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização",
+        "Proatividade"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (fluente)",
+      "Espanhol (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Buscador de dados de filmes",
+        "url": "https://github.com/rafation/MovieLister",
+        "github": true
+      },
+      {
+        "name": "Veja todos meus projetos no GitHub:",
+        "url": "https://github.com/rafation?tab=repositories",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Gerente de Produção / OusadiaArt",
+        "period": "ago de 2022 - abr de 2024",
+        "description": "Tempo de muito aprendizado de ética de trabalho, diligência e gestão de equipe."
+      }
+    ]
+  }
