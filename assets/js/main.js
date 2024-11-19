@@ -52,7 +52,7 @@ function updateProfessionalExperience(profileData){
     const professionalExperience = document.getElementById('profile.professionalExperience');
     professionalExperience.innerHTML = profileData.professionalExperience.map(experience => `
                     <li>
-                        <span class="title">${experience.name}</span><br>
+                        <h3 class="title">${experience.name}</h3><br>
                         <span class="period">${experience.period}</span>
                         <p>${experience.description}</p>
                     </li>
